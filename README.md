@@ -1,7 +1,7 @@
-# CoreyAce
+# CoreyAce (descontinuado)
 
 Asistente de escritorio modular en Python con soporte para modelos de lenguaje online (Gemini, OpenAI, Anthropic) y locales (Ollama/Llama 3), asi como sintesis de voz (ElevenLabs y ChatTTS).
-
+basado en Ace de la WebSerie de youtube de Corey Beepington
 ## Estructura
 
 - `ace_assistant/main.py`: Punto de entrada del asistente.
