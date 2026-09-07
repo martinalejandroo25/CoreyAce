@@ -1,0 +1,13 @@
+PyQt6>=6.6.0
+openai>=1.12.0
+anthropic>=0.18.0
+# opencv-python>=4.9.0.80  # Requiere soporte para Python 3.14
+# deepface>=0.0.90         # Requiere tensorflow (no disponible para Python 3.14)
+numpy>=1.26.0
+pyaudio>=0.2.14
+ollama>=0.1.6
+requests>=2.31.0
+torch
+torchaudio
+ChatTTS
+

@@ -1,0 +1,25 @@
+# Environments
+.venv/
+venv/
+**/venv/
+**/.venv/
+
+# Secrets & Configuration
+config.json
+**/config.json
+!.config.json.example
+!**/config.json.example
+.env
+.env.*
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# IDEs & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log

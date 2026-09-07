@@ -1,0 +1,17 @@
+{
+  "mode": "online",
+  "online_llm": "gemini",
+  "local_llm": "llama3",
+  "apis": {
+    "openai_key": "",
+    "elevenlabs_key": "TU_API_KEY",
+    "anthropic_key": "",
+    "gemini_key": "TU_GEMINI_KEY"
+  },
+  "online_voice": "elevenlabs",
+  "local_voice": "chattts",
+  "llm_mode": "online",
+  "tts_mode": "local",
+  "camera_enabled": false,
+  "mic_enabled": false
+}
